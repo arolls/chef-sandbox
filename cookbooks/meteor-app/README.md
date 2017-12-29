@@ -1,4 +1,3 @@
 # meteor-app
 
-TODO: Enter the cookbook description here.
-
+Sandbox for chef testing.
