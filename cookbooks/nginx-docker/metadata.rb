@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures nginx-docker'
 long_description 'Installs/Configures nginx-docker'
-version '0.3.0'
+version '0.4.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
 depends 'docker', '~> 3.0'
